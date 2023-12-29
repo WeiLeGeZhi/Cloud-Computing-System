@@ -109,9 +109,20 @@
 │   └───.ipynb_checkpoints
 └───img
         P1.png
+        P10.png
+        P11.png
+        P12.png
+        P13.png
+        P14.png
+        P15.png
+        P16.png
+        P17.png
         P2.png
         P3.png
         P4.png
         P5.png
         P6.png
+        P7.png
+        P8.png
+        P9.png
 ```
